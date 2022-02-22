@@ -1,0 +1,35 @@
+*,#btn_submit{
+		font-family: 'Roboto', sans-serif;
+	}
+
+fieldset label {
+	display: block;
+	margin: 5px 0px;
+}
+
+fieldset input#qr_code_data
+{
+	width: 220px;
+	height: 33px;
+	border: 1px solid #ddd;
+	margin: 5px 0px;
+	padding: 0px 5px;
+}
+#btn_submit{
+	display: inline;
+	margin-right: 10px;
+	background-color: #4682B4;
+	color: white;
+	border-radius:3px;
+	opacity: 0.8;
+	padding: 10px 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+#btn_submit:hover,a:hover{
+	opacity: 1;
+}
+.result{
+	margin-left:10px;
+}
