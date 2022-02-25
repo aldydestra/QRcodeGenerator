@@ -1,6 +1,6 @@
 ## QRcodeGenerator
 
-QR Code Generator sederhana yang dikembangkan menggunakan PHP and QRcode Library sebagai dasarnya.
+QR Code Generator sederhana yang dikembangkan menggunakan QRcode Library sebagai dasarnya.
 
 ## Perhatian!
 
